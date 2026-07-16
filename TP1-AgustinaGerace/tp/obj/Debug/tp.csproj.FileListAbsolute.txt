@@ -1,0 +1,7 @@
+C:\Users\shasb\OneDrive\Desktop\Agustina\TP1-AgustinaGerace\tp\obj\Debug\tp.csproj.AssemblyReference.cache
+C:\Users\shasb\OneDrive\Desktop\Agustina\TP1-AgustinaGerace\tp\obj\Debug\tp.csproj.CoreCompileInputs.cache
+C:\Users\shasb\OneDrive\Desktop\Agustina\TP1-AgustinaGerace\tp\bin\Debug\tp.exe.config
+C:\Users\shasb\OneDrive\Desktop\Agustina\TP1-AgustinaGerace\tp\bin\Debug\tp.exe
+C:\Users\shasb\OneDrive\Desktop\Agustina\TP1-AgustinaGerace\tp\bin\Debug\tp.pdb
+C:\Users\shasb\OneDrive\Desktop\Agustina\TP1-AgustinaGerace\tp\obj\Debug\tp.exe
+C:\Users\shasb\OneDrive\Desktop\Agustina\TP1-AgustinaGerace\tp\obj\Debug\tp.pdb
