@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace tp
 {
+/* El programa debe cumplir con las siguientes condiciones:
+Definir una clase Configuracion que almacene parámetros de la simulación, como la cantidad de filas, columnas y la velocidad de caída de los copos.
+Definir una clase Copo que modele el comportamiento de un copo de nieve. Cada copo debe tener una posición en la consola y un método para mostrarse y desplazarse hacia abajo.
+Usar una lista para administrar todos los copos activos durante la simulación.
+Implementar una lógica que controle la caída de los copos de nieve, evitando que se superpongan en la misma posición.
+Al completarse una fila con copos en todas las columnas, esta debe eliminarse para permitir que continúe la simulación.
+El programa debe ejecutarse en un ciclo continuo, simulando de manera animada la caída de los copos.*/
     class Program
     {
         static void Main(string[] args)
